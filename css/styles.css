@@ -126,6 +126,9 @@ a.white {
 .testimonial-text {
 	font: italic 400 1rem/1.5rem "Raleway", sans-serif;
 }
+#logo{
+	width: 10%;
+}
 
 .testimonial-author {
 	font: 700 1rem/1.5rem "Raleway", sans-serif;
